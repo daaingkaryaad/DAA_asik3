@@ -1,4 +1,4 @@
-# DAA Assignment 3 — Optimization of a City Transportation Network
+# DAA Assignment 3: Optimization of a City Transportation Network
 ### *Prim’s vs. Kruskal’s Algorithms (Minimum Spanning Tree)*
 Author: Ingkar Adilbek (SE-2424)  
 Repository: [daa_asik3](https://github.com/daaingkaryaad/daa_asik3)
@@ -112,21 +112,13 @@ Example (excerpt from `results.csv`):
 
 ---
 
-## References
-1. Sedgewick, R., & Wayne, K. (2011). *Algorithms (4th Edition)* — Section 4.3: Minimum Spanning Trees.
-2. GeeksForGeeks — *Prim’s and Kruskal’s Algorithm for MST*.
-3. Princeton University COS 226 Course Notes — *Greedy Algorithms & MSTs*.
-4. Course materials — *Design and Analysis of Algorithms*, Astana IT University (2025).
-
----
-
 ## Summary
-| Component           | Status                    |
-|---------------------|---------------------------|
-| Prim’s Algorithm    | ✔️ Implemented, tested    |
-| Kruskal’s Algorithm | ✔️ Implemented, tested    |
-| Input / Output JSON | ✔️ Generated (30 graphs)  |
-| CSV + Charts        | ✔️ Exported for analysis  |
-| JUnit Tests         | ✔️ Passed                 |
-| Report              | ✔️ This README + analysis |
+| Component           | Status                |
+|---------------------|-----------------------|
+| Prim’s Algorithm    | Implemented, tested   |
+| Kruskal’s Algorithm | Implemented, tested   |
+| Input / Output JSON | Generated 30 graphs   |
+| CSV + Charts        | Exported for analysis |
+| JUnit Tests         | Passed                |
+| Report              | This README           |
 
